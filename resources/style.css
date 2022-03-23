@@ -1,0 +1,101 @@
+* {
+    font-family: Poppins;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: "Nunito Sans";
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: Poppins;
+}
+
+p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: Poppins;
+}
+
+.boxes {
+    display: block;
+    box-sizing: border-box;
+}
+
+.color {
+  border: 1px solid black;
+  padding: 1px 10px;
+}
+
+.col {
+  list-style: none;
+  display: flex;
+}
+
+.blue {
+  display: flex;
+  flex-flow: column wrap;
+  margin: 10px 15px;
+  text-align: center;
+  background-color: #87ceeb;
+  padding: 5px 10px;
+}
+
+.pink {
+  display: flex;
+  flex-flow: column wrap;
+  margin: 10px 15px;
+  text-align: center;
+  background-color: #ffc0cb;
+  padding: 5px 10px;
+}
+
+.aqua {
+  display: flex;
+  flex-flow: column wrap;
+  margin: 10px 15px;
+  text-align: center;
+  background-color: #66cdaa;
+  padding: 5px 10px;
+}
+
+.white {
+  display: flex;
+  flex-flow: column wrap;
+  margin: 10px 15px;
+  text-align: center;
+  background-color: #fdf5e6;
+  padding: 5px 10px;
+}
+
+.fonts {
+  border: 1px solid black;
+  padding: 1px 10px;
+}
+
+.font {
+  display: flex;
+  margin: 0px 20px;
+  padding: 0px 20px;
+}
+
+.fontsyle {
+    margin: 0px 20px;
+    padding: 0px 20px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.text {
+  border: 1px solid black;
+  padding: 1px 10px;
+}
